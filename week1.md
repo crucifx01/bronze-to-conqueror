@@ -27,10 +27,10 @@ These two would contain moslty all the tools you would ever need for either Wind
 |3| One liner to copy a _folder_ to a directory named **week-1** on remote server/vagrant VM  | 50  |	C	|
 |4| SFTP connection to the remote server/ vagrant VM  | 50  |	S	|
 |5| Proxy Setting using export command  | 50  |		C	|
-|6| Setting up vagrant and Docker(50-50 marks each) | 100  |		G/V	|
+|6| Setting up vagrant and Docker(100-100 marks each) | 200  |		G/V	|
 |7| Setting up vagrant Flare-VM  | 100  |		G/V	|
-|8| **BONUS** : Write a bash and python script for task 1-5	| 200	| C	|
-|| **TOTAL** 	| **650**	|
+|8| **BONUS** : Write a bash and python script for task 1-5	| 300	| C	|
+|| **TOTAL** 	| **850**	|
 
 1 : Show the output of `lsof` to show the port is opened and which program is running on this port.
 
