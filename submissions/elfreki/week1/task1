@@ -1,0 +1,4 @@
+ssh -fN -R 7000:localhost:22 username@yourMachine-ipaddress
+
+
+//edit this one liner for Reverse SSH
