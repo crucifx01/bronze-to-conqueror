@@ -1,4 +1,4 @@
+#!/bin/bash
 ssh localhost -p port
 
 
-//SSh for remote commands from a local host
