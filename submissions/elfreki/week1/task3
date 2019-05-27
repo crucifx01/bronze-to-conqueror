@@ -1,0 +1,3 @@
+scp -r week1 userVM@localhost:path
+
+//where path is where the week1 will be copied
