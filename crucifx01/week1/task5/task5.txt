@@ -1,0 +1,1 @@
+export http_proxy="http://parad0x(username):pv1234(password)@192.168.43.45:8080(port)"
