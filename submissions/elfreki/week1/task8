@@ -1,0 +1,24 @@
+echo "enter task"
+read c
+case $c in
+(1)
+read username
+read yourmachineIp
+ssh -R -fN 7000:localhost:22 $username@$yourmachineIP ;;
+
+(2)
+read port
+ssh localhost -p $port; ;;
+
+(3)
+
+scp -r folder host@localhost:/home/week-1;;
+
+(5)
+read username
+read password
+export http_proxy="http://$username:$password@172.31.2.4:8080"
+export https_proxy="https://$username:$password@172.31.2.4:8080"
+export ftp_proxy="ftp://$username:$password@172.31.2.4:8080" ;;
+
+esac
