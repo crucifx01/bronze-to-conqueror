@@ -1,0 +1,1 @@
+scp -r /pathoffolder  remote_username@serveripaddress:  /week1
