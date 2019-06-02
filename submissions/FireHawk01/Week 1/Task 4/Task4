@@ -1,0 +1,3 @@
+#SFTP connection to the remote server
+
+sftp username@remote_host_ip_address
