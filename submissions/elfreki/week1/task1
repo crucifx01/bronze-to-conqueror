@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -fN -R 7000:localhost:22 username@yourMachine-ipaddress
