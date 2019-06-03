@@ -1,0 +1,2 @@
+ssh user@remote < local.sh
+//where local.sh is the local script to be executed remotely.
