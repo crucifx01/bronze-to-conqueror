@@ -10,3 +10,6 @@
 
 ### Week1:
 This week will cover the basics related to setting up the enviroment and install all the necessary softwares and adjust VMs according to our need.
+
+### Week2:
+This week will cover the basic shell scripting using Sed and Awk.The tasks are to be performed on the given access.log file.
