@@ -1,0 +1,3 @@
+awk '{ if ($9==404 && NR >= 20 && NR <= 33  ) { print; } }' <access.log> access2.csv
+
+
