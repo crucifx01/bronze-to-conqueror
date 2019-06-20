@@ -1,0 +1,19 @@
+Command to install docker on ubuntu
+
+$ sudo apt install docker.io 
+
+The Docker service needs to be setup to run at startup. To do so, type in each command followed by enter:
+
+$ sudo systemctl start docker
+
+Then
+
+$ sudo systemctl enable docker
+
+your docker setup is installed 
+
+now check the version by using following command:
+
+$ docker version
+
+
